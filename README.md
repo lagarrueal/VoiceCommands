@@ -3,4 +3,4 @@ Implementing an algorithm and building a ML model to recognize easy voice comman
 
 # Goal
 The model should be able to recognize voice commands such as ```up```, ```down```, ```left```, ```right```, ```yes```, ```no```, ```stop```, ```go```, ```on```, ```off```.  
-All other words should be recognized as noise, or non trigger words.
+All other words should be recognized as unknown or non trigger words, background noise or plain silence.
