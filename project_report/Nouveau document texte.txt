@@ -1,0 +1,3 @@
+decode time (waveform)    : 11h27 - 11h29
+decode time (spectrogram) : 11h29 - 11h40
+train time                : 11h41 - 12h29 
